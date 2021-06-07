@@ -1,0 +1,16 @@
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.csprojAssemblyReference.cache
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.AssemblyInfoInputs.cache
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.AssemblyInfo.cs
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.csproj.CoreCompileInputs.cache
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\Youtube JSON.exe
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\Youtube JSON.deps.json
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\Youtube JSON.runtimeconfig.json
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\Youtube JSON.runtimeconfig.dev.json
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\Youtube JSON.dll
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\ref\Youtube JSON.dll
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\bin\Debug\net5.0\Youtube JSON.pdb
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.dll
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\ref\Youtube JSON.dll
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.pdb
+C:\Users\yanni\OneDrive\Dokumente\SCHULE\Year 3\Big Data\Youtube JSON\obj\Debug\net5.0\Youtube JSON.genruntimeconfig.cache
